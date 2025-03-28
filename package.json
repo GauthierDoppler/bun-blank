@@ -2,8 +2,5 @@
   "name": "bun-blank",
   "module": "index.ts",
   "type": "module",
-  "private": true,
-  "peerDependencies": {
-    "typescript": "^5"
-  }
+  "private": true
 }
